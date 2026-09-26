@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "skilldb": {
+      "command": "npx",
+      "args": ["-y", "-p", "skilldb", "skilldb-mcp"]
+    }
+  }
+}
